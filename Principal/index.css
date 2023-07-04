@@ -1,0 +1,12 @@
+
+header{
+    height: 10%;
+}
+h1{
+    color: #f00;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+}
